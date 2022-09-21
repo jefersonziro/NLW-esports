@@ -88,6 +88,10 @@ section ul {
     margin-top: 24px;  
 }
 
+h2 {
+    text-align: center;
+}
+
 section ul li {
     transition: transform .3s;
 }
