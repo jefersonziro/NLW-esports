@@ -110,6 +110,11 @@ section ul li:hover {
     border: 1px solid #443e54;
 }
 
+.social-midia > li {
+    margin: none;
+    margin: auto
+}
+
 /* animation */
 
 header div {
