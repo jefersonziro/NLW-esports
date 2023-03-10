@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://jefersonziro.github.io/nlw-esports/)
 
 ## Tecnologias
 
