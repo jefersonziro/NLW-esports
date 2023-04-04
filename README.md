@@ -4,16 +4,16 @@
 
 > Trilha Explorer
 
-Projeto construido no evento Next Level Week da Rocketseat
+Project built at Rocketseat's Next Level Week event
 
-[Clique aqui para acessar](https://jefersonziro.github.io/nlw-esports/)
+[Click here to view in your borwser: ](https://jefersonziro.github.io/NLW-esports/)
 
-## Tecnologias
+## Technologies
 
 -HTML
 -CSS
-Git e Github
+-Git e Github
 
-## Contato
+## keep in touch
 
-jefersonacademico@gmail.com
+jfz1r0@gmail.com
